@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/procesador_texto/modelo/Caracter.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/procesador_texto/vista/PanelEditor.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/procesador_texto/vista/PanelOpciones.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/procesador_texto/vista/ProcesadorTextoFrame.java" charset="UTF-8" />
+  </component>
+</project>
